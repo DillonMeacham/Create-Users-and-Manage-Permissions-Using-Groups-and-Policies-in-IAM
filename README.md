@@ -1,0 +1,2 @@
+# Create-Users-and-Manage-Permissions-Using-Groups-and-Policies-in-IAM
+Alfredo of Alfredo's Pizza has hired me as a security engineer for his web app that allows customers to order pizzas online. He's hired four new employees for the development team needs help giving this team the proper access permissions. In order to provide access and ensure the proper security measures are in place, I will use AWS Identity and Access Management (IAM) to group users and assign permissions for the developer group using policies.
